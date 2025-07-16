@@ -15,5 +15,5 @@ Creates interactive dashboards to visualize airline operations data including:
 ## Files Included
 
 - PBIX dashboard file
-- Data samples (if available)
+- Data samples 
 - Screenshots of visuals
